@@ -1,3 +1,11 @@
+SkypeGuard by op2600 (Windows version)
+
+Mac: https://github.com/jsilverMDX/SkypeGuard/releases
+
+Based on SkypeNET
+
+Original readme:
+
 Skype .NET
 -----------------------------------------------
 Created: Sept 2012 
